@@ -1,2 +1,2 @@
-# fatihsarioglu.github.io
-My blog for my articles and other stuff.
+# Fatih Sarıoğlu's Blog
+### My blog for my articles and other stuff.
